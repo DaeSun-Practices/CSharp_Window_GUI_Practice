@@ -1,0 +1,21 @@
+MessageBox.Show("Warning") //메시지 박스 띄우기
+
+bool string.IsNullOrWhiteSpace(string value) //공백 문자 잡아내기
+
+bool int.TryParse(string s, out int result) // string이 int로 바꿔지는지를 return,  result에 바꾼 것을 입력
+
+if(int.TryParse(s, out result)){
+	
+}
+
+sum1.SelectAll() : 모든 문자를 선택하게 됨
+Sum1.Focus(); : 바로 바꿀 수 있게 마우슬 옮겨줌
+
+
+event에서 object sender를
+Button numButton  = (Button) sender
+Button.Text = "This is clicked"
+
+this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+this.WindowState = FormWindowState.Maximized;
+전체화면

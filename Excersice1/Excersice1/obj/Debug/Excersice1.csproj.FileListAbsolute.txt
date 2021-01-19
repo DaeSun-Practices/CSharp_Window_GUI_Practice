@@ -1,0 +1,10 @@
+C:\SongDaeSun\Programming\CSharp_Window_GUI\Excersice1\Excersice1\bin\Debug\Excersice1.exe.config
+C:\SongDaeSun\Programming\CSharp_Window_GUI\Excersice1\Excersice1\bin\Debug\Excersice1.exe
+C:\SongDaeSun\Programming\CSharp_Window_GUI\Excersice1\Excersice1\bin\Debug\Excersice1.pdb
+C:\SongDaeSun\Programming\CSharp_Window_GUI\Excersice1\Excersice1\obj\Debug\Excersice1.csprojAssemblyReference.cache
+C:\SongDaeSun\Programming\CSharp_Window_GUI\Excersice1\Excersice1\obj\Debug\Excersice1.Calculator.resources
+C:\SongDaeSun\Programming\CSharp_Window_GUI\Excersice1\Excersice1\obj\Debug\Excersice1.Properties.Resources.resources
+C:\SongDaeSun\Programming\CSharp_Window_GUI\Excersice1\Excersice1\obj\Debug\Excersice1.csproj.GenerateResource.cache
+C:\SongDaeSun\Programming\CSharp_Window_GUI\Excersice1\Excersice1\obj\Debug\Excersice1.csproj.CoreCompileInputs.cache
+C:\SongDaeSun\Programming\CSharp_Window_GUI\Excersice1\Excersice1\obj\Debug\Excersice1.exe
+C:\SongDaeSun\Programming\CSharp_Window_GUI\Excersice1\Excersice1\obj\Debug\Excersice1.pdb
